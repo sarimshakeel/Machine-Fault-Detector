@@ -212,17 +212,6 @@ scikit-learn==1.8.0
 
 ---
 
-## 🛣️ Roadmap
-
-- [ ] Persist trained models with `joblib` (skip retraining on startup)
-- [ ] Model metrics dashboard (accuracy, F1, confusion matrix)
-- [ ] FastAPI migration for async performance
-- [ ] Time-series RUL prediction
-- [ ] Production deployment with Gunicorn + Nginx
-- [ ] Docker support
-
----
-
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
