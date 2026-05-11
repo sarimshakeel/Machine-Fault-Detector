@@ -9,12 +9,6 @@ A real-time predictive maintenance dashboard powered by machine learning. Input 
 
 ---
 
-## 📸 Preview
-
-> Input machine parameters → get a live health assessment with failure probability, RUL, and risk level.
-
----
-
 ## ✨ Features
 
 - **Failure Classification** — RandomForest model predicts machine failure (Healthy / Failed)
