@@ -45,11 +45,6 @@ Fault Detection/
 ├── styles.css          # Dark industrial theme
 ├── ai4i2020.csv        # AI4I 2020 Predictive Maintenance Dataset
 ├── requirements.txt    # Python dependencies
-├── test_direct.py      # Direct model tests (no HTTP)
-├── test_api.py         # API integration tests
-└── evaluate.py         # Classification metrics
-```
-
 ---
 
 ## 🚀 Getting Started
